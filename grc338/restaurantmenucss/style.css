@@ -2,20 +2,20 @@
 
 body{
     background-color: rgb(223, 194, 138);
+    margin: 1 em 1 em 1 em 1 em;
 }
 
 h1 {
-    color: rgb(34, 64, 142);
-    font-size: 2.5em;
+    color: rgb(126, 144, 132);
+    font-size: 2.25em;
     text-transform: uppercase;
     font-family: sans-serif;
     text-align: center;
-    background-color: rgb(255, 255, 255)
 }
 
 h2 {
     color: rgb(71, 79, 74);
-    font-size: 2em;
+    font-size: 1.75em;
     text-transform: uppercase;
     font-family: sans-serif;
     text-align: center;
@@ -30,8 +30,8 @@ h3 {
 }
 
 h4 {
-    color: rgb(126, 144, 132);
-    font-size: 1em;
+    color: rgb(34, 64, 142);
+    font-size: 1.25em;
     text-transform: uppercase;
     font-family: sans-serif;
     text-align: center;
@@ -39,7 +39,6 @@ h4 {
 
 p {
     color: rgb(255, 255, 255);
-    font-size: 0.75em;
     font-family: sans-serif;
     text-align: center;
 }
