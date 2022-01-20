@@ -47,3 +47,11 @@ li{
 ul{
    padding: 0; 
 }
+
+.price{
+    font-style: italic;
+}
+
+.lastprice{
+    padding: 1em 1em 4em 1em;
+}
