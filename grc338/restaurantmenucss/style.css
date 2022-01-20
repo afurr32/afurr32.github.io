@@ -2,8 +2,9 @@
 
 body{
     background-color: rgb(223, 194, 138);
-    margin: 2 em 1 em 1 em 2 em;
-    max-width: 20em;
+    margin: 2 em 2 em 2 em 2 em;
+    max-width: 30em;
+    text-align: center;
 }
 
 h1 {
@@ -11,7 +12,6 @@ h1 {
     font-size: 2.25em;
     text-transform: uppercase;
     font-family: serif;
-    text-align: center;
 }
 
 h2 {
@@ -19,7 +19,6 @@ h2 {
     font-size: 1.75em;
     text-transform: uppercase;
     font-family: sans-serif;
-    text-align: center;
 }
 
 h3 {
@@ -27,7 +26,6 @@ h3 {
     font-size: 1.5em;
     text-transform: uppercase;
     font-family: sans-serif;
-    text-align: center;
 }
 
 h4 {
@@ -35,13 +33,11 @@ h4 {
     font-size: 1.25em;
     text-transform: uppercase;
     font-family: sans-serif;
-    text-align: center;
 }
 
 p {
     color: rgb(255, 255, 255);
     font-family: serif;
-    text-align: center;
 }
 
 li{
