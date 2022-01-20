@@ -3,6 +3,7 @@
 body{
     background-color: rgb(222, 234, 252);
     text-align: center;
+    margin: 1em 1em 3em 1em;
 }
 
 h1 {
@@ -50,8 +51,4 @@ ul{
 
 .price{
     font-style: italic;
-}
-
-.bottomprice{
-    padding: 1em 1em 3em 1em;
 }
