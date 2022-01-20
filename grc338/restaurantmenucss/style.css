@@ -2,17 +2,15 @@
 
 body{
     background-color: rgb(223, 194, 138);
-    margin: 2 em 2 em 2 em 2 em;
-    max-width: 30em;
+    margin: 1 em 2 em 2 em 1 em;
     text-align: center;
 }
 
 h1 {
     color: rgb(126, 144, 132);
-    font-size: 2.25em;
+    font-size: 3em;
     text-transform: uppercase;
     font-family: serif;
-    font-weight: normal;
 }
 
 h2 {
@@ -20,12 +18,11 @@ h2 {
     font-size: 1.75em;
     text-transform: uppercase;
     font-family: sans-serif;
-    font-weight: normal;
 }
 
 h3 {
     color:rgb(71, 79, 74);
-    font-size: 1.5em;
+    font-size: 1.75em;
     text-transform: uppercase;
     font-family: sans-serif;
     font-weight: normal;
