@@ -7,10 +7,10 @@ body{
 
 h1 {
     color: rgb(39, 65, 137);
-    font-size: 2.5em;
+    font-size: 2.75em;
     text-transform: uppercase;
     font-family: serif;
-    padding: 2em 1em 2em 1em;
+    padding: 4em 1em 4em 1em;
 }
 
 h2 {
@@ -18,14 +18,14 @@ h2 {
     font-size: 1.5em;
     text-transform: uppercase;
     font-family: serif;
-    padding: 6em 1em 1em 1em;
+    padding: 4em 1em 3em 1em;
 }
 
 h3 {
     color: rgb(129, 143, 133);
     text-transform: uppercase;
     font-family: sans-serif;
-    padding: 2em 1em 1em 1em;
+    padding: 3em 1em 1em 1em;
 }
 
 h4 {
@@ -38,6 +38,7 @@ h4 {
 p {
     color: rgb(129, 143, 133);
     font-family: serif;
+    padding: 1em 1em 2em 1em;
 }
 
 li{
