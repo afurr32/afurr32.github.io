@@ -1,27 +1,26 @@
 /* CSS DOCUMENT*/
 
 body{
-    background-color: rgb(223, 194, 138);
-    margin: 1 em 2 em 2 em 1 em;
+    background-color: rgb(255, 221, 161);
     text-align: center;
 }
 
 h1 {
-    color: rgb(126, 144, 132);
+    color: rgb(39, 65, 137);
     font-size: 3em;
     text-transform: uppercase;
     font-family: serif;
 }
 
 h2 {
-    color: rgb(71, 79, 74);
+    color: rgb(129, 143, 133);
     font-size: 1.75em;
     text-transform: uppercase;
     font-family: sans-serif;
-}
+}1
 
 h3 {
-    color:rgb(71, 79, 74);
+    color: rgb(129, 143, 133);
     font-size: 1.75em;
     text-transform: uppercase;
     font-family: sans-serif;
@@ -29,7 +28,7 @@ h3 {
 }
 
 h4 {
-    color: rgb(34, 64, 142);
+    color: rgb(129, 143, 133);
     font-size: 1.25em;
     text-transform: uppercase;
     font-family: sans-serif;
