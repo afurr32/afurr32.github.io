@@ -1,0 +1,47 @@
+/* CSS DOCUMENT*/
+
+h1 {
+    color: rgb(34, 64, 142);
+    font-size: 6em;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(71, 79, 74);
+    font-size: 5em;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h3 {
+    color:rgb(71, 79, 74);
+    font-size: 3em;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h4 {
+    color: rgb(223, 194, 138);
+    font-size: 2em;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+p {
+    color: rgb(255, 255, 255);
+    font-size: 1em;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+li{
+    list-style: none;
+}
+
+ul{
+   padding: 0; 
+}
