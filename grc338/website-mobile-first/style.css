@@ -33,9 +33,9 @@ nav ul li {
     display: inline;
     text-transform: uppercase;
     list-style-type: none;
-    margin-right: 1em;
+    margin-right: 2em;
     border-top: 1px solid rgb(255, 216, 153);
-    padding: 0.5em 1em;
+    padding: 1em 2em;
 }
 
 nav ul li a {
