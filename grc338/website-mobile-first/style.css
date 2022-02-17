@@ -1,0 +1,119 @@
+/*CSS DOCUMENT*/
+
+img {
+    width: 100%;
+    grid-column: 1/2;
+}
+
+body {
+    background-color: rgb(255,255,255);
+}
+
+div.container {
+    margin: auto;
+    background-color: rgb(255,255,255);
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+header {
+    background-color: rgb(255,255,255);
+    padding: 0em 4em 0em 4em;
+    grid-column: 1/3;
+}
+
+footer {
+    background-color: rgb(255,216,153);
+    font-size: 1em;
+    grid-column: 1/3;
+    padding: 1em 0em 1em 1em;
+}
+
+nav ul li {
+    display: inline;
+    list-style-type: none;
+    margin-right: 1em; 
+    font-family: bressay-devanagari, sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    text-transform: uppercase;
+    border-top: 1px solid rgb(255,216,153);
+    padding: 4px 8px 0px 8px;
+}
+
+nav ul li a {
+    color: rgb(135,105,172);
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    color: rgb(255,216,153);
+}
+
+h2 {
+    color: rgb(255,216,153);
+    font-family: liebelotte-swell, sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 3.5em;
+    padding: 0em .75em 0em .75em;
+    grid-column: 1/3;
+}
+
+h3 {
+    color: rgb(255,216,153);
+    font-family: liebelotte-swell, sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 2.25em;
+    padding: 0em 1em 0em 1em;
+    grid-column: 1/3;
+}
+
+h4 {
+    color: rgb(135,105,172);
+    font-family: bressay-devanagari, sans-serif;
+    font-weight: 1200;
+    padding: 0em 1em 0em 2.5em;
+    text-transform: uppercase;
+    font-size: 1em;
+    grid-column: 1/3;
+}
+
+h5 {
+    color: rgb(135,105,172);
+    font-family: bressay-devanagari, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: .75em;
+    grid-column: 1/3;
+}
+
+ul {
+    color: rgb(135,105,172);
+    font-family: bressay-devanagari, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    list-style-type: none;
+    grid-column: 1/3;
+}
+
+p {
+    color: rgb(135,105,172);
+    font-family: bressay-devanagari, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    padding: 0em 4em 0em 2em;
+    font-size: .75em;
+    grid-column: 2/3;
+}
+
+.price {
+    font-style: italic;
+}
+
+.customersimage {
+    grid-column: 1/3;
+}
+
+/*Please don’t change this CSS stylesheet for the content hierarchy assginment */
